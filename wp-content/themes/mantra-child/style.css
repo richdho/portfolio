@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Mantra Child
+ Theme URI:    http://example.com/twenty-fourteen-child/
+ Description:  Mantra Child Theme
+ Author:       Richard Ho
+ Author URI:   http://richdho.info
+ Template:     mantra
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  mantra-child
+*/
+@import url("../mantra/style.css");
+
+.widget-area ul ul li{
+background:transparent;
+}
