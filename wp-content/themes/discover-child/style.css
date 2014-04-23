@@ -1,0 +1,13 @@
+/*
+ Theme Name:   Discover Child
+ Theme URI:    http://example.com/twenty-fourteen-child/
+ Description:  Discover Child Theme
+ Author:       Richard Ho
+ Author URI:   
+ Template:     discover
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  discover-child
+*/
+
+@import url("../discover/style.css");
